@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    font-family: cursive;
+    font-size: 50px;
+    padding-top: 50px;
+}
+
+p {
+    text-align: center;
+    color: crimson;
+    font-size: 30px;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+    text-align: center;
+}
+
+.dice {
+    text-align: center;
+}
+
+.color {
+    background-color: #f98404;
+}
+
+.size {
+    font-size: 100px;
+    padding-bottom: 150px;
+}
